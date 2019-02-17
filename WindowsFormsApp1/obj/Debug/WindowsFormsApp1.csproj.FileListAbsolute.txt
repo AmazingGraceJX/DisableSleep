@@ -1,0 +1,10 @@
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DisableSleep.Properties.Resources.resources
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DisableSleepForm.FormMain.resources
+C:\Users\Administrator.PC-20120726LRCB\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DisableSleep.Resource1.resources

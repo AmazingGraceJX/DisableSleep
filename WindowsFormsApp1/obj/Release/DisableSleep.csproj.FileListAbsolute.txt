@@ -1,0 +1,10 @@
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\bin\Release\DisableSleep.exe.config
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\bin\Release\DisableSleep.exe
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\bin\Release\DisableSleep.pdb
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\obj\Release\DisableSleepForm.FormMain.resources
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\obj\Release\DisableSleep.Properties.Resources.resources
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\obj\Release\DisableSleep.Resource1.resources
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\obj\Release\DisableSleep.csproj.GenerateResource.cache
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\obj\Release\DisableSleep.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\obj\Release\DisableSleep.exe
+C:\Users\Administrator.PC-20120726LRCB\source\repos\DisableSleep\WindowsFormsApp1\obj\Release\DisableSleep.pdb
